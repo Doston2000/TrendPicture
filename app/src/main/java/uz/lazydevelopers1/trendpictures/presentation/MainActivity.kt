@@ -113,5 +113,6 @@ class MainActivity : AppCompatActivity() {
                     }
                 }
         }
+        Toast.makeText(this, "Ishladi", Toast.LENGTH_SHORT).show()
     }
 }

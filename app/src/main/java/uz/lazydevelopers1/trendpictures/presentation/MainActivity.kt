@@ -23,6 +23,8 @@ import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {
 
+//    forTest
+
     @Inject
     lateinit var factory: ViewModelProvider.Factory
 
